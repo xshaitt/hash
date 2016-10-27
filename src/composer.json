@@ -1,0 +1,14 @@
+{
+    "name": "firstshuai/hash",
+    "description": "This is the laravel framerwork of the hash package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "First Shuai",
+            "email": "773999579@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
